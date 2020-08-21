@@ -2,8 +2,8 @@ before_script:
   hugo server &
 
 install:
-  pip install pytest
-  apt install wfuzz -y
+  - pip install pytest
+  - apt install wfuzz -y
 
 script:
   python -m pytest
