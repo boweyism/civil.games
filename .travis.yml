@@ -3,7 +3,7 @@ before_script:
 
 install:
   - pip install pytest
-  - sudo apt install wfuzz -y
+  - pip install wfuzz
 
 script:
   python -m pytest
