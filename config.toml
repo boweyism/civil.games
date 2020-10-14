@@ -11,7 +11,7 @@ pygmentscodefencesguesssyntax = true
 paginate=3 # articles per page
 
 [params]
-	mode="auto" # color-mode → light,dark or auto
+	mode="dark" # color-mode → light,dark or auto
 	featherIconsCDN=true
 	subtitle = ""
 
@@ -20,7 +20,7 @@ paginate=3 # articles per page
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/boweyism"
+url = "https://github.com/boweyism/"
 
 [[params.social]]
 name = "Twitter"
