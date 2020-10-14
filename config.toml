@@ -11,7 +11,7 @@ pygmentscodefencesguesssyntax = true
 paginate=3 # articles per page
 
 [params]
-	mode="dark" # color-mode → light,dark or auto
+	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
 	subtitle = ""
 
