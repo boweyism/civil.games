@@ -1,8 +1,8 @@
 baseURL = "boweyism.github.io"
 languageCode = "en-us"
-title = "Archie"
+title = "CIVIL.GAMES"
 theme="archie"
-copyright = "© Athul"
+copyright = "© boweyism"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -13,7 +13,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	subtitle = ""
 
 # Social Tags
 
