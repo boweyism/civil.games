@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CIVIL.GAMES</title>
+    <link>boweyism.github.io/</link>
+    <description>Recent content on CIVIL.GAMES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© boweyism</copyright>
+    <lastBuildDate>Fri, 31 Jul 2020 14:56:54 +0200</lastBuildDate>
+    
+	<atom:link href="boweyism.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>boweyism.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 31 Jul 2020 14:56:54 +0200</pubDate>
+      
+      <guid>boweyism.github.io/posts/my-first-post/</guid>
+      <description>fipo</description>
+    </item>
+    
+  </channel>
+</rss>
